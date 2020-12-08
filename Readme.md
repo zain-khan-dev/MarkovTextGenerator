@@ -15,8 +15,8 @@ Knives out
 
 The most important decision is to choose the datastructure for the same
 We will try to build a dictionary of each word which in turn will consist of a dictionary that will store the frequency of the words. Each word frequency/total words frequency will give us the probability of that word to come next to the current word 
-This way we will move from one state to the next
-Although i expected this to not be that good but this is worse than except. I will try to brainstrom other ideas of improving this at this moment this generator is very naive and unusable.
+This way we will move from one state to the next .
+I will try to brainstrom other ideas of improving this at this moment this generator is very naive and unusable.
 
 How to run
 
